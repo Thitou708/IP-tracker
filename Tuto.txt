@@ -1,0 +1,106 @@
+français: Pour lancer le logiciel il faudra faire double click sur ce logiciel 
+
+
+ATTENTION : Avant de lancer le logiciel sous windows il faudrat telecharger python ! 
+
+--------------------------------> https://www.python.org/downloads/
+
+
+Dès que c'est bon il faudrat vous rendre sur le CMD
+
+
+donc: 
+
+Windows+r
+
+est vous écriver
+
+CMD
+
+dès qu'il est ouvert vous aller taper la commande suivante
+
+pip install requests
+
+
+
+
+
+
+Et voila !!!!
+
+Bon trackage !!!!!
+
+english : o launch the software you will have to double click on this software
+
+
+WARNING: Before launching the software under Windows you will have to download python!
+
+--------------------------------> https://www.python.org/downloads/
+
+
+As soon as it is good you will have to go to the CMD
+
+
+so :
+
+Windows+r
+
+do you write
+
+CMD
+
+as soon as it is open you will type the following command
+
+pip install requests
+
+
+
+
+
+
+And There you go !!!!
+
+Good follow up !!!!!
+
+----------------------------------------------------------------------------------
+Linux
+
+Français : dès que vous avez télécharger le fichier vous allez mettres dans un terminal linux 
+
+cd ( et l'emplacement du fichier ) exemple : cd Iptracker
+
+puis vours allez faire 
+
+./Iptracker.py 
+
+ou même 
+
+sudo bash Iptracker.py
+
+english : as soon as you have downloaded the file you will put in a linux terminal
+
+cd (and file location) example: cd Iptracker
+
+then you are going to do
+
+./iptracker.py
+
+or even
+
+sudo bash Iptracker.py
+
+français : installer les prérequis 
+
+pip install requests
+
+pip install json
+
+pip install os-sys
+
+English : installer prerequisites
+
+pip install requests
+
+pip install json
+
+pip install os-sys
